@@ -1,5 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using System;
 
 namespace Algorithm.Selection_Sort {
     class Program {
@@ -18,7 +18,7 @@ namespace Algorithm.Selection_Sort {
             Console.WriteLine("Сортируем список.");
             Console.WriteLine();
 
-            int[] sortArray = SelectionSort.Sort(list);
+            int[] sortArray = SelectionSort.Sort(list.ToArray());
             Console.WriteLine("Отсортированный список: ");
             foreach (int i in sortArray) {
                 Console.Write($"{i}, ");
