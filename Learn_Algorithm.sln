@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Binary_Search", "Algorithm.Binary_Search\Algorithm.Binary_Search.csproj", "{17FBC834-7172-463F-A2D8-D84F95D65815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Selection_Sort", "Algorithm.SelectionSort\Algorithm.Selection_Sort.csproj", "{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17FBC834-7172-463F-A2D8-D84F95D65815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FBC834-7172-463F-A2D8-D84F95D65815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FBC834-7172-463F-A2D8-D84F95D65815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FBC834-7172-463F-A2D8-D84F95D65815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940B7A50-203B-4608-8453-A4EB8ED870A1}
+	EndGlobalSection
+EndGlobal
