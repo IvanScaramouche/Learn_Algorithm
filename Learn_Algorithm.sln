@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Binary_Search", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Selection_Sort", "Algorithm.SelectionSort\Algorithm.Selection_Sort.csproj", "{9ABEF735-FFCF-41EA-885C-739B98FD6F1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion_", "Recursion_\Recursion_.csproj", "{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Recursion_", "Recursion_\Algorithm.Recursion_.csproj", "{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Quick_Sort", "Quick_Sort\Algorithm.Quick_Sort.csproj", "{F7FA8E35-D94A-4D54-9019-3B429141192E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

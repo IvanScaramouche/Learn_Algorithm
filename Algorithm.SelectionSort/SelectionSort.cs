@@ -21,13 +21,17 @@ namespace Algorithm.Selection_Sort {
                 }
 
                 if (i != down) {
-                    int temp = list[i];
-                    list[i] = list[down];
-                    list[down] = temp;
+                    Swap(list, i, down);
                 }
             }
 
             return list;
+        }
+
+        private static void Swap(int[] array, int first, int second) {
+            int temp = array[second];
+            array[second] = array[first];
+            array[first] = temp;
         }
     }
 }
