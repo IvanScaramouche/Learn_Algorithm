@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Selection_Sort", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Recursion_", "Recursion_\Algorithm.Recursion_.csproj", "{5B5E93F0-C954-42CC-A92D-4D60BE8ACE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.Quick_Sort", "Quick_Sort\Algorithm.Quick_Sort.csproj", "{F7FA8E35-D94A-4D54-9019-3B429141192E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algorithm.Quick_Sort", "Quick_Sort\Algorithm.Quick_Sort.csproj", "{F7FA8E35-D94A-4D54-9019-3B429141192E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm.BreadthFirst_Search", "Algorithm.BreadthFirst_Search\Algorithm.BreadthFirst_Search.csproj", "{328D6EEE-DE6C-408F-9D44-EAAEB54B1B84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7FA8E35-D94A-4D54-9019-3B429141192E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328D6EEE-DE6C-408F-9D44-EAAEB54B1B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328D6EEE-DE6C-408F-9D44-EAAEB54B1B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328D6EEE-DE6C-408F-9D44-EAAEB54B1B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328D6EEE-DE6C-408F-9D44-EAAEB54B1B84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
