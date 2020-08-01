@@ -1,6 +1,13 @@
-﻿using System;
+﻿/*
+ *  Алгоритм Дейкстры
+ *
+ *  Алгоритм находит кратчайшие пути от одной из вершин графа до всех остальных. 
+ *  Алгоритм работает только для ацикличных направленных графов без рёбер отрицательного веса 
+ * 
+ */
+
 using System.Collections.Generic;
-using System.Text;
+using System;
 
 namespace Algorithm.Dijkstras_Algorithm {
     public static class DijkstrasAlgorithm {
